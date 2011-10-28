@@ -5,6 +5,7 @@
 /apropos_fonctions.php -text
 /apropos_pipeline.php -text
 contenu/page-apropos.html -text
+head/page-apropos.html -text
 img/arob.png -text
 img/generique.png -text
 lang/apropos_en.php -text
