@@ -7,3 +7,5 @@
 contenu/page-apropos.html -text
 img/arob.png -text
 img/generique.png -text
+lang/apropos_en.php -text
+lang/apropos_fr.php -text
