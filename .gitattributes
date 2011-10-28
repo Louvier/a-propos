@@ -14,3 +14,4 @@ modeles/apropos_extensions.html -text
 modeles/apropos_liste.html -text
 modeles/apropos_nombre.html -text
 modeles/apropos_plugins.html -text
+/plugin.xml -text
