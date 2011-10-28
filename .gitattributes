@@ -9,3 +9,8 @@ img/arob.png -text
 img/generique.png -text
 lang/apropos_en.php -text
 lang/apropos_fr.php -text
+modeles/apropos.html -text
+modeles/apropos_extensions.html -text
+modeles/apropos_liste.html -text
+modeles/apropos_nombre.html -text
+modeles/apropos_plugins.html -text
