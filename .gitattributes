@@ -12,9 +12,12 @@ lang/apropos_fr.php -text
 lang/paquet-apropos_en.php -text
 lang/paquet-apropos_fr.php -text
 modeles/apropos.html -text
+modeles/apropos_adisposition.html -text
+modeles/apropos_disponible.html -text
 modeles/apropos_extensions.html -text
 modeles/apropos_liste.html -text
 modeles/apropos_nombre.html -text
 modeles/apropos_plugins.html -text
+modeles/apropos_tous.html -text
 /paquet.xml -text
 /plugin.xml -text
