@@ -2,7 +2,6 @@
 /Lisez-moi.txt -text
 /apropos.css -text
 /apropos.png -text
-/apropos_fonctions.php -text
 /apropos_pipeline.php -text
 /archivelist.txt -text
 img/arob.png -text
@@ -19,5 +18,3 @@ modeles/apropos_liste.html -text
 modeles/apropos_nombre.html -text
 modeles/apropos_plugins.html -text
 modeles/apropos_tous.html -text
-/paquet.xml -text
-/plugin.xml -text
