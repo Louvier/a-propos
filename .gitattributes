@@ -1,1 +1,27 @@
 * text=auto !eol
+apropos_3/apropos.css -text
+apropos_3/apropos.png -text
+apropos_3/apropos_pipeline.php -text
+apropos_3/img/arob.png -text
+apropos_3/img/generique.png -text
+apropos_3/lang/apropos_en.php -text
+apropos_3/lang/apropos_fr.php -text
+apropos_3/lang/paquet-apropos_en.php -text
+apropos_3/lang/paquet-apropos_fr.php -text
+apropos_3/modeles/apropos.html -text
+apropos_3/modeles/apropos_adisposition.html -text
+apropos_3/modeles/apropos_disponible.html -text
+apropos_3/modeles/apropos_extensions.html -text
+apropos_3/modeles/apropos_liste.html -text
+apropos_3/modeles/apropos_lister_tout.html -text
+apropos_3/modeles/apropos_necessite.html -text
+apropos_3/modeles/apropos_nom.html -text
+apropos_3/modeles/apropos_nombre.html -text
+apropos_3/modeles/apropos_plugins.html -text
+apropos_3/modeles/apropos_stats.html -text
+apropos_3/modeles/apropos_tous.html -text
+apropos_3/modeles/dependance.html -text
+apropos_3/modeles/liste_plug_nom_vers.html -text
+apropos_3/paquet.xml -text
+apropos_3/plugin.xml -text
+apropos_3/prive/navigation/plugin.html -text
