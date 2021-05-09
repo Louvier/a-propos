@@ -40,6 +40,17 @@
 	float: left;
 	margin-left: -40px;
 	padding: 4px;
+	width: 32px;
+	height: 32px;
+}
+.apropos-icon-inactif{
+	float: left;
+	margin-left: -40px;
+	padding: 4px;
+}
+.apropos-icon img{
+	width: 32px;
+	height: 32px;	
 }
 .apropos-nom{
 	font-weight: bold;
